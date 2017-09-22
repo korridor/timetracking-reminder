@@ -5,7 +5,7 @@
   "description": "timetracking-reminder is a package for Atom that reminds you to start or stop your timetracker.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/timetracking-reminder",
+  "repository": "https://github.com/korridor/timetracking-reminder",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
