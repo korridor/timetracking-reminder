@@ -1,7 +1,7 @@
 {
   "name": "timetracking-reminder",
   "main": "./lib/timetracking-reminder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "timetracking-reminder is a package for Atom that reminds you to start or stop your timetracker.",
   "keywords": [],
   "repository": "https://github.com/korridor/timetracking-reminder",
